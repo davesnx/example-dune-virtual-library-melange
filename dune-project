@@ -17,5 +17,5 @@
 
 (package
  (name manolo)
- (synopsis "Manolo an example of cross-compiled virtual library with Melange and dune")
+ (synopsis "An example of a cross-compiled virtual library with Melange and dune")
  (depends ocaml dune))
