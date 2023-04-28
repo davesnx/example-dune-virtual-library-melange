@@ -1,0 +1,6 @@
+(library
+ (name js_native)
+ (modes byte native)
+ (public_name manolo.manolo_js_native)
+ (flags :standard -w -37)
+ (implements manolo))

@@ -1,0 +1,6 @@
+(library
+ (name manolo)
+ (wrapped false)
+ (modes :standard melange)
+ (public_name manolo.manolo_js)
+ (virtual_modules manolo))

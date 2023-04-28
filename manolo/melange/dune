@@ -1,0 +1,5 @@
+(library
+ (name js_melange)
+ (modes melange)
+ (public_name manolo.manolo_js_melange)
+ (implements manolo))
